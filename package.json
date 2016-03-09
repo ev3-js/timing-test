@@ -1,0 +1,23 @@
+{
+  "name": "timing-test",
+  "version": "0.1.0",
+  "description": "Test read/write speeds of ev3dev devices",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ev3-js/timing-test.git"
+  },
+  "author": "danleavitt0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ev3-js/timing-test/issues"
+  },
+  "homepage": "https://github.com/ev3-js/timing-test#readme",
+  "dependencies": {
+    "ev3-js-device": "^0.1.2",
+    "ev3-js-devices": "^0.5.10"
+  }
+}
